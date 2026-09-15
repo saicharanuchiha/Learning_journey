@@ -1,0 +1,218 @@
+# 📓 Daily Learning Log — September 2026
+
+---
+
+### 🗓️ Date: September 14, 2026
+
+**🧘 Core Learning: Scheduled Rest & Cultural Observance**
+* **Topic:** Holiday Observance & Scheduled Reset
+* **Resource:** N/A (Personal Day)
+* **Key Takeaway:** Observed the holiday quietly and took a planned low-friction day away from active screen time to recharge mental bandwidth ahead of upcoming technical sprints.
+
+**⌨️ Skill Practice**
+* **Focus:** Rest & Recovery
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Paused daily keyboard drills for scheduled holiday reset.
+
+---
+
+### 🗓️ Date: September 13, 2026
+
+**🧘 Core Learning: Scheduled Rest & Recovery**
+* **Topic:** Weekend Recovery & Mental Bandwidth Recharge
+* **Resource:** N/A (Rest Day)
+* **Key Takeaway:** Took a planned Sunday rest day to decompress after intensive communication recording sessions and clear mental bandwidth ahead of the upcoming week's technical coding blocks.
+
+**⌨️ Skill Practice**
+* **Focus:** Rest & Recovery
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Scheduled weekend break from daily keyboard drills to support full cognitive and physical reset.
+
+---
+
+### 🗓️ Date: September 12, 2026
+
+**🗣️ Core Learning: Professional Communication & Video Pitch Delivery**
+* **Topic:** High-Stakes Scenario Framing, On-Camera Delivery, Body Language (Gesture Integration), and Unscripted Technical Self-Introductions
+* **Resource:** The Complete Communication Skills Master Class for Life (TJ Walker) & Self-Recording Video Practice
+* **Key Takeaway:** Executed iterative on-camera speaking drills (8 recorded takes) applying the high-stakes scenario hook for a data analyst introduction. Overcame word-for-word memorization stalls by speaking to core concepts, eliminated duplicate opening greetings for a sharper pivot into identity, incorporated natural hand gestures to release shoulder tension, and sustained locked lens eye contact to deliver a confident, conversational 45-second value proposition.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained daily touch-typing baseline consistency alongside video recording drills.
+
+---
+
+### 🗓️ Date: September 11, 2026
+
+**📋 Core Learning: Personal Leave**
+* **Topic:** Personal Commitments & Transition Back to Workflow
+* **Resource:** N/A (Personal Leave)
+* **Key Takeaway:** Concluded a multi-day personal leave window; finalized off-desk commitments and established scheduling priorities to prepare for technical workflow re-entry.
+
+**⌨️ Skill Practice**
+* **Focus:** Scheduled Rest
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Paused keyboard practice during personal leave.
+
+---
+
+### 🗓️ Date: September 10, 2026
+
+**📋 Core Learning: Personal Leave**
+* **Topic:** Scheduled Personal Leave
+* **Resource:** N/A (Personal Leave)
+* **Key Takeaway:** Stepped away from development modules to attend to planned personal and family responsibilities.
+
+**⌨️ Skill Practice**
+* **Focus:** Scheduled Rest
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Paused typing practice during personal leave.
+
+---
+
+### 🗓️ Date: September 09, 2026
+
+**📋 Core Learning: Personal Leave**
+* **Topic:** Scheduled Personal Leave
+* **Resource:** N/A (Personal Leave)
+* **Key Takeaway:** Allocated time away from study sprints to manage off-desk family matters.
+
+**⌨️ Skill Practice**
+* **Focus:** Scheduled Rest
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Paused typing practice during personal leave.
+
+---
+
+### 🗓️ Date: September 08, 2026
+
+**📋 Core Learning: Personal Leave**
+* **Topic:** Unscheduled Personal Leave & Travel
+* **Resource:** N/A (Personal Leave)
+* **Key Takeaway:** Paused technical study blocks to manage sudden personal commitments and related travel.
+
+**⌨️ Skill Practice**
+* **Focus:** Scheduled Rest
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Paused typing practice due to unscheduled personal leave.
+
+---
+
+### 🗓️ Date: September 07, 2026
+
+**🕷️ Core Learning: Python & Web Scraping (Beautiful Soup 4)**
+* **Topic:** HTML Parsing (`html.parser`), DOM Tree Traversal (`find`, `find_all`, `select`), CSS Selectors, Live Web Scraping (Hacker News), and Archival Data Ingestion (Empire 100 Movies)
+* **Resource:** Python Study Curriculum (Day 45: Web Scraping with Beautiful Soup)
+* **Key Takeaway:** Learned how to extract unstructured web data and transform it into clean datasets using Beautiful Soup 4 and Requests. Practiced navigating DOM hierarchies using tag names and CSS selectors (`.select_one()`), scraped live articles and upvotes from Y Combinator Hacker News, and built an automated scraper that pulls archival ranking data from the Wayback Machine to generate a clean, sequentially ordered text file.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained baseline typing consistency and accuracy while navigating tag extraction syntax, nested loops, and file I/O operations.
+
+---
+
+### 🗓️ Date: September 06, 2026
+
+**🧘 Core Learning: Scheduled Rest & Recovery**
+* **Topic:** Weekend Recovery & Cognitive Recharge
+* **Resource:** N/A (Rest Day)
+* **Key Takeaway:** Took a planned Sunday rest day to step away from the desk, recharge mental bandwidth, and reset focus ahead of incoming web scraping and data extraction pipelines.
+
+**⌨️ Skill Practice**
+* **Focus:** Rest & Recovery
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Scheduled weekend break from daily keyboard drills to support full mental and physical recovery.
+
+---
+
+### 🗓️ Date: September 05, 2026
+
+**🎨 Core Learning: CSS & Web Styling**
+* **Topic:** CSS Layout Mechanics, Selectors & Visual Design
+* **Resource:** Web Development Bootcamp (CSS Styling Modules)
+* **Key Takeaway:** Practiced fundamental CSS rules and styling mechanisms to manipulate page structure, refine element alignment, and reinforce clean styling architecture for web applications.
+
+**🗣️ Core Learning: Communication Skills**
+* **Topic:** Quick Communication Tactics, Message Framing & Delivery
+* **Resource:** The Complete Communication Skills Master Class for Life
+* **Key Takeaway:** Reviewed actionable, high-impact communication strategies centered on verbal clarity, direct message framing, active listening, and reducing communicative friction in everyday interactions.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained daily touch-typing rhythm and muscle memory alongside frontend styling drills and communication review.
+
+---
+
+### 🗓️ Date: September 04, 2026
+
+**🎨 Core Learning: CSS3 & Box Model Architecture**
+* **Topic:** CSS Box Model (Margins, Padding, Borders), Typography & Font Properties, Color Models (RGB, Hex, Named), DevTools CSS Inspection & Layout Debugging (Pesticide)
+* **Resource:** Web Development Bootcamp (Day 44: CSS Box Model & Motivational Poster Project)
+* **Key Takeaway:** Mastered foundational CSS layout mechanics centered on the Box Model, configuring content dimensions, interior padding, structural borders, and exterior margin spacing. Explored color systems (RGB, Hex, named values), customized typography using web fonts and CSS font properties, used Chrome DevTools and Pesticide to inspect layout box calculations, and integrated these concepts to build and center a responsive motivational poster webpage.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained daily touch-typing execution baseline alongside CSS property-value drafting and layout debugging.
+
+---
+
+### 🗓️ Date: September 03, 2026
+
+**🤝 Core Learning: Professional Networking & Industry Analysis**
+* **Topic:** Tech Market Dynamics, Workforce Volatility & Skill Hedging
+* **Resource:** Professional Peer Discussion & Industry Analysis
+* **Key Takeaway:** Dedicated the session to evaluating corporate restructuring trends and tech workforce movements through peer dialogue. Reinforced the strategic priority of technical independence, hands-on portfolio engineering, and cross-functional data skillsets in mitigating broader employment market risks.
+
+**⌨️ Skill Practice**
+* **Focus:** Professional Development
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Paused keyboard practice for scheduled professional discussions and industry evaluation.
+
+---
+
+### 🗓️ Date: September 02, 2026
+
+**🎨 Core Learning: HTML5 & CSS3 Fundamentals**
+* **Topic:** Semantic HTML (Lists, Nesting, Anchor Tags, Image Elements) & CSS Core (Syntax, Selectors, Styling & Color Vocab Project)
+* **Resource:** Web Development Bootcamp (Days 42 & 43: Birthday Invite & Color Vocab Projects)
+* **Key Takeaway:** Expanded HTML proficiency by mastering ordered/unordered lists, indentation nesting hierarchy, hyperlinks (`<a>`), and relative/absolute image paths (`<img>`) in the Birthday Invite project. Progressed into CSS fundamentals, implementing external stylesheets, class vs. element selectors, and CSS color vocabularies to transition from raw structural markup to responsive visual design.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained clean touch-typing rhythm alongside rapid syntax drafting across HTML tags and CSS property blocks.
+
+---
+
+### 🗓️ Date: September 01, 2026
+
+**🌐 Core Learning: HTML5 & Web Fundamentals**
+* **Topic:** Document Structuring, Heading Hierarchy (`<h1>`–`<h6>`), Paragraph Blocks (`<p>`), Void Elements (`<hr/>`), and Live Server Workflow
+* **Resource:** Web Development Bootcamp (HTML Fundamentals: Movie Ranking Project)
+* **Key Takeaway:** Began frontend fundamentals by constructing semantic HTML pages. Established structured information architecture using proper heading hierarchies, section dividers via self-closing void elements, and verified layout rendering using the local VS Code Live Preview environment.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained daily touch-typing practice baseline while transitioning into web development markup.
+
+---
