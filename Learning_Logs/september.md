@@ -2,6 +2,57 @@
 
 ---
 
+### 🗓️ Date: September 17, 2026
+
+**🛠️ Core Learning: Git Infrastructure & Power BI Schema Architecture**
+
+* **Topic:** Remote Version Control Flushing & Star-Schema Data Modeling
+* **Resource:** Git CLI & Power BI Desktop
+* **Key Takeaway:** Restructured remote commit tracking to maintain a clean, authentic project history, configured 1-to-many star-schema relationships, and drafted primary DAX operational metrics for dashboard visualization.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 15 Minutes
+* **Key Takeaway:** Preserved high accuracy and consistent mechanical execution.
+
+---
+
+### 🗓️ Date: September 16, 2026
+
+**📊 Core Learning: Python Data Engineering & Schema Design**
+
+* **Topic:** Relational Synthetic Data Pipeline & Dispatch Logic
+* **Resource:** Custom Python Pipeline (`generate_data.py`) & SQL Architecture Design
+* **Key Takeaway:** Programmed automated generation of relational datasets (`dim_zones`, `dim_drivers`, `fact_trips`) incorporating surge multipliers, realistic take-rates, and cancellation friction while resolving OS-level relative path handling.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 15 Minutes
+* **Key Takeaway:** Maintained baseline typing cadence and muscle memory.
+
+---
+
+### 🗓️ Date: September 15, 2026
+
+**🔄 Core Learning: Workflow Calibration & Portfolio Strategy**
+
+* **Topic:** Strategic Curriculum Pivot & Project Roadmap Definition
+* **Resource:** Professional Career Transition Strategy
+* **Key Takeaway:** Audited the current learning curriculum and executed a strategic pivot, pruning non-essential web development tracks to concentrate 100% of execution bandwidth on high-value data analytics portfolio assets (SQL, Power BI, and advanced Pandas data models).
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 15 Minutes
+* **Key Takeaway:** Maintained baseline mechanical touch-typing execution during operational planning and workflow realignment.
+
+---
+
 ### 🗓️ Date: September 14, 2026
 
 **🧘 Core Learning: Scheduled Rest & Cultural Observance**
