@@ -2,6 +2,91 @@
 
 ---
 
+### 🗓️ Date: September 22, 2026
+
+**📊 Core Learning: Power BI & DAX Modeling**
+
+* **Topic:** Operational Dashboard Architecture, Secondary Dual-Axis Scaling & Cross-Filter Contexts
+* **Resource:** Ride-Share Operations Project Build (Power BI Desktop)
+* **Key Takeaway:** Hardcoded filter contexts inside `CALCULATE` measures (such as `trip_status = "Completed"`) actively overwrite external visual interactions. Utilizing dynamic row counts (`Total Requests`) preserves interactive cross-filtering across categorical slices like cancellation reasons. Properly anchoring secondary Y-axis scales prevents normal operational variance from presenting as false system volatility.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Visual Hierarchy & Report Canvas Layout
+* **Resource:** Power BI Desktop Visual Styling
+* **Duration:** 45 Minutes
+* **Key Takeaway:** Standardized a cohesive enterprise aesthetic across multiple pages using muted neutral backgrounds (`#F4F5F7`), uniform slate tones for volume distributions, and high-contrast alert colors for dropped-demand indicators.
+
+---
+
+### 🗓️ Date: September 21, 2026
+
+**📊 Core Learning: DAX & Business Logic Engineering**
+
+* **Topic:** Operational Friction Metrics & Conditional Filtering
+* **Resource:** Power BI Desktop (`rideshare_operations_dashboard.pbix`)
+* **Key Takeaway:** Engineered advanced business logic to quantify dispatch breakdowns (`Lost Gross Revenue`, `Cancellation Rate %`) using `CALCULATE` and `SUMX` iterations over surge-multiplied base fares to accurately price lost passenger bookings across dropped trip statuses.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Canvas Scaffolding & Multi-Page UX
+* **Resource:** Power BI Visual Layout Engine
+* **Duration:** 35 Minutes
+* **Key Takeaway:** Established a clear visual boundary between executive commercial health (Page 1) and friction root causes (Page 2), scoping visual interaction filters and preparing dynamic measure bindings across card strips and slicers.
+
+---
+
+### 🗓️ Date: September 20, 2026
+
+**📊 Core Learning: Power BI & Dimensional Modeling**
+
+* **Topic:** Kimball Star Schema Architecture & Baseline DAX Measures
+* **Resource:** Power BI Desktop Model View
+* **Key Takeaway:** Constructed a clean star schema with 1-to-many, single-direction relationships radiating from dimension tables into `fact_trips`. Formatted a dedicated `_Measures` table housing foundational DAX calculations (`Gross Bookings`, `Fulfillment Rate %`, and `Take Rate %`) while adhering to explicit DAX measure design rather than implicit aggregations.
+
+**⌨️ Skill Practice**
+
+* **Focus:** DAX Syntax & Error Handling
+* **Resource:** DAX Formatter / Power BI Modeling Tools
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Utilized `DIVIDE()` with explicit zero-handling parameters across all rate computations to prevent null display artifacts and runtime divide-by-zero exceptions during report filtering.
+
+---
+
+### 🗓️ Date: September 19, 2026
+
+**🐬 Core Learning: SQL & Relational Analytics**
+
+* **Topic:** Window Functions, CTEs & Revenue Leakage Queries
+* **Resource:** `ride_share_operations_analysis.sql`
+* **Key Takeaway:** Authored production-grade relational queries utilizing CTEs and ranking window functions (`DENSE_RANK() OVER (PARTITION BY ...)`) to isolate peak-hour dispatch deficits and calculate opportunity loss by municipal sector. Cleaned up duplicate fact table definitions to ensure deterministic join behavior.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Query Optimization & Execution Logic
+* **Resource:** SQL Query Workspace
+* **Duration:** 40 Minutes
+* **Key Takeaway:** Structured filtering predicates inside CTE stages prior to aggregation, preventing accidental Cartesian products during multi-table joins and optimizing scan efficiency across ride records.
+
+---
+
+### 🗓️ Date: September 18, 2026
+
+**🐍 Core Learning: Python & Data Simulation**
+
+* **Topic:** Synthetic Relational Pipeline & Distribution Modeling
+* **Resource:** `scripts/generate_data.py` (Local Build)
+* **Key Takeaway:** Modeled peak and off-peak trip distributions using weighted categorical sampling in NumPy and Pandas to simulate realistic urban dispatch bottlenecks across relational dimensions (`dim_zones`, `dim_drivers`, `fact_trips`). Ensured foreign key referential integrity between zone classifications and driver fleet entities.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Vectorized Operations & Script Optimization
+* **Resource:** VS Code / Python Documentation
+* **Duration:** 45 Minutes
+* **Key Takeaway:** Replaced iterative row generation loops with vectorized Pandas distributions, cutting synthetic batch creation time across 15,000 records while preserving realistic variance in pricing multipliers and trip status weights.
+
+---
+
 ### 🗓️ Date: September 17, 2026
 
 **🛠️ Core Learning: Git Infrastructure & Power BI Schema Architecture**
