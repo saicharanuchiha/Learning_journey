@@ -2,6 +2,40 @@
 
 ---
 
+### 🗓️ Date: September 24, 2026
+
+**📈 Core Learning: SQL (Product Analytics & Platform Integrity)**
+
+* **Topic:** Relational Schema Architecture, Growth Metrics & Fraud Detection
+* **Resource:** Instagram Database Clone (`Instagram-database-clone`)
+* **Key Takeaway:** Restructured raw relational dumps into a modular production architecture (`01_schema_and_data_seed.sql` and `02_product_analytics_suite.sql`). Formulated product analytics queries analyzing user churn dormancy via `LEFT JOIN` anti-joins, content virality rankings, platform liquidity (creator conversion rate), and trust-and-safety bot detection using dynamic subqueries (`HAVING COUNT(likes) = total_photos`).
+
+**⌨️ Skill Practice**
+
+* **Focus:** Multi-Repository Workspace Management & Remote Tracking
+* **Resource:** Windows PowerShell
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Diagnosed and corrected nested submodule tracking within the master workspace (`Data Analyst Projects`) by removing root Git tracking, establishing clean subfolder isolation, and deploying standalone remote repositories to GitHub.
+
+---
+
+### 🗓️ Date: September 23, 2026
+
+**📊 Core Learning: SQL (Operations & Logistics Analytics)**
+
+* **Topic:** Star Schema Architecture & Operational Friction Analysis
+* **Resource:** Ride-Share Operations Project (`rideshare-operations-analysis`)
+* **Key Takeaway:** Designed and implemented a Kimball dimensional model (`fact_trips`, `dim_drivers`, `dim_zones`) with explicit constraints and indexing. Authored advanced analytics queries utilizing Common Table Expressions (CTEs), window functions (`DENSE_RANK`, `NTILE`), and conditional aggregations to isolate dispatch bottlenecks, surge multiplier price elasticity, and platform revenue leakage ($1.0M friction loss).
+
+**⌨️ Skill Practice**
+
+* **Focus:** Git Version Control & Production DDL Deployment
+* **Resource:** Windows PowerShell & GitHub CLI
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Resolved MySQL `DATETIME` syntax conflicts and CRLF staging warnings, establishing clean commit practices and publishing the end-to-end reproducible repository to GitHub.
+
+---
+
 ### 🗓️ Date: September 22, 2026
 
 **📊 Core Learning: Power BI & DAX Modeling**
