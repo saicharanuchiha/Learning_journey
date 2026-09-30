@@ -2,6 +2,108 @@
 
 ---
 
+### 🗓️ Date: September 30, 2026
+
+**📊 Core Learning: Power BI (Product & Growth Analytics)**
+
+* **Topic:** Relational Data Modeling & User Liquidity DAX Calculations
+* **Resource:** Instagram Database Clone Project (`Instagram-database-clone`)
+* **Key Takeaway:** Integrated the local MySQL schema into Power BI in Import mode. Configured 1-to-many relationships from core entities to interaction junction tables. Authored core DAX measures to track product health, including Active Creators, Creator Conversion Rate, and churn dormancy segmentation.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Data Modeling & Business Intelligence Canvas Layout
+* **Resource:** Power BI Desktop
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Structured a centralized `_Measures` table, established strict single-direction filter propagation to prevent circular dependencies, and drafted an executive single-page dark-mode canvas.
+
+---
+
+### 🗓️️ Date: September 29, 2026
+
+**⚡ Core Learning: Power BI / DAX**
+
+* **Topic:** Evaluation Context (Row vs. Filter Context) & Context Transition
+* **Resource:** The Definitive Guide to DAX & Documentation
+* **Key Takeaway:** Analyzed how `CALCULATE` triggers context transition by converting an active row context into an equivalent filter context. Evaluated common performance bottlenecks when pairing iterative functions (`SUMX`, `FILTER`) with nested base measures.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Monkeytype
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Completed 60-second burst intervals focusing on eliminating hesitation during capital letter shift sequences; maintained steady-state accuracy above 96%.
+
+---
+
+### 🗓️ Date: September 28, 2026
+
+**🔍 Core Learning: SQL (Query Optimization & Execution Plans)**
+
+* **Topic:** MySQL 8.0 `EXPLAIN ANALYZE` & Index Utilization
+* **Resource:** MySQL 8.0 Reference Manual
+* **Key Takeaway:** Evaluated cost models and actual execution timings for multi-table relational joins. Identified when the query optimizer favors composite indexes on junction tables versus falling back to nested-loop full table scans.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Isolated bottom-row key transitions ('c', 'v', 'b') to smooth out finger movement and prevent irregular keystroke latency.
+
+---
+
+### 🗓️ Date: September 27, 2026
+
+**🏗️️ Core Learning: Data Architecture & Dimensional Modeling**
+
+* **Topic:** Kimball Dimensional Design & Grain Integrity
+* **Resource:** The Data Warehouse Toolkit
+* **Key Takeaway:** Re-evaluated transactional versus accumulating snapshot fact architectures. Clarified the architectural boundaries between snowflaked dimensions and pure star schemas to optimize query performance in reporting layers.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Prioritized a relaxed, consistent cadence over peak burst typing to eliminate backspace usage on multi-syllable terms.
+
+---
+
+### 🗓️ Date: September 26, 2026
+
+**🐍 Core Learning: Python (Data Processing & Vectorization)**
+
+* **Topic:** Pandas Memory Profiling & Type Downcasting
+* **Resource:** Python for Data Analysis
+* **Key Takeaway:** Implemented numeric downcasting (`float64` to `float32`, `int64` to `int16`) and categorical conversions across high-cardinality string columns, significantly reducing in-memory DataFrame overhead during data generation pipelines.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Monkeytype
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Completed specialized punctuation and syntax drills focusing on symbols frequently used in code blocks (`_`, `{}`, `[]`, `->`).
+
+---
+
+### 🗓️️ Date: September 25, 2026
+
+**🧮 Core Learning: SQL (Advanced Analytical Patterns)**
+
+* **Topic:** Window Frame Specifications & Cumulative Metrics
+* **Resource:** Advanced SQL for Analytics Documentation
+* **Key Takeaway:** Evaluated explicit window framing syntax (`ROWS BETWEEN ... PRECEDING AND CURRENT ROW`) to construct running aggregates and moving averages without incurring the computational overhead of self-joins.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Drilled home-row anchor keys to maintain consistent finger placement; maintained 97% accuracy across all sets.
+
+---
+
 ### 🗓️ Date: September 24, 2026
 
 **📈 Core Learning: SQL (Product Analytics & Platform Integrity)**
