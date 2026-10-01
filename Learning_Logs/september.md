@@ -2,8 +2,6 @@
 
 ---
 
-### Daily Log for Today
-
 ### 🗓️ Date: October 01, 2026
 
 **📊 Core Learning: Power BI (Evaluation Context & Analytics Dashboarding)**
