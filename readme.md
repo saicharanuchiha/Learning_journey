@@ -23,6 +23,7 @@ Chronological daily learning logs and project notes:
 * [July 2026 Logs](./Learning_Logs/july.md)
 * [August 2026 Logs](./Learning_Logs/august.md)
 * [September 2026 Logs](./Learning_Logs/september.md)
+* [October 2026 Logs](./Learning_Logs/october.md)
 
 ---
 
