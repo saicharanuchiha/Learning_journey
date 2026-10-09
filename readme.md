@@ -27,7 +27,22 @@ Chronological daily learning logs and project notes:
 
 ---
 
-### 🚀 Projects in Development
-* **Instagram Clone Relational Schema:** Designing an optimized relational database schema in SQL to simulate extraction, query user engagement metrics, and evaluate platform usage trends.
-* **Video Game Market Analysis:** Ingesting and querying global sales datasets using SQL and Power BI to analyze historic performance across platforms, genres, and publishers.
-* **Automated Expense Allocation Engine:** Building a modular Python application to calculate and automate complex multi-party expense distributions.
+### 🚀 Featured Analytics Projects
+
+* **[Ride-Share Operations & Logistics Analysis](https://github.com/saicharanuchiha/rideshare-operations-analysis):** 
+  Designed a Kimball star schema in MySQL (`fact_trips`, `dim_drivers`, `dim_zones`) and authored DAX business logic in Power BI to isolate dispatch bottlenecks, pricing elasticity, and quantify **$1.0M in revenue friction loss**.
+
+* **[Instagram Product Analytics & Data Model](https://github.com/saicharanuchiha/Instagram-database-clone):** 
+  Built a relational social media schema in MySQL paired with an executive Power BI product dashboard to track user acquisition velocity, creator conversion funnels (74% liquidity), and detect automated bot accounts via dynamic behavior queries.
+
+* **[Video Game Market Intelligence Dashboard](https://github.com/saicharanuchiha/video-game-sales-analysis):** 
+  Centralized historical console sales into an indexed SQL analytical pipeline. Engineered an executive "Midnight Slate" Power BI dashboard uncovering regional consumption divergences and multi-decade publisher lifecycle trends.
+
+* **[Anime Market & Studio Volatility Analytics](https://github.com/saicharanuchiha/anime-sql-analysis):** 
+  Constructed an end-to-end MySQL ELT pipeline with dynamic regex data-type casting and B-tree indexes. Visualized the "Hype vs. Quality" divergence index and studio production yield across 850+ releases in Power BI.
+
+---
+
+### 🛠️ In Active Development
+
+* **Automated Expense Allocation Engine:** Building a modular Python application utilizing algorithmic settlement logic (min-cash-flow graph theory) to optimize multi-party debt resolution and automated ledger accounting.
