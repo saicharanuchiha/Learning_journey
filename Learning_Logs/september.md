@@ -4,103 +4,103 @@
 
 ### 🗓️ Date: September 30, 2026
 
-**📊 Core Learning: Power BI (Product & Growth Analytics)**
+**⏸️ Core Learning: Personal Time**
 
-* **Topic:** Relational Data Modeling & User Liquidity DAX Calculations
-* **Resource:** Instagram Database Clone Project (`Instagram-database-clone`)
-* **Key Takeaway:** Integrated the local MySQL schema into Power BI in Import mode. Configured 1-to-many relationships from core entities to interaction junction tables. Authored core DAX measures to track product health, including Active Creators, Creator Conversion Rate, and churn dormancy segmentation.
+* **Topic:** Personal Commitment & Month-End Reset
+* **Resource:** N/A
+* **Key Takeaway:** Stepped away from technical modules to conclude personal commitments and prepare workflow priorities for October.
 
 **⌨️ Skill Practice**
 
-* **Focus:** Data Modeling & Business Intelligence Canvas Layout
-* **Resource:** Power BI Desktop
-* **Duration:** 30 Minutes
-* **Key Takeaway:** Structured a centralized `_Measures` table, established strict single-direction filter propagation to prevent circular dependencies, and drafted an executive single-page dark-mode canvas.
+* **Focus:** Scheduled Rest
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Practice paused during personal leave.
 
 ---
 
-### 🗓️️ Date: September 29, 2026
+### 🗓️ Date: September 29, 2026
 
-**⚡ Core Learning: Power BI / DAX**
+**⏸️ Core Learning: Personal Time**
 
-* **Topic:** Evaluation Context (Row vs. Filter Context) & Context Transition
-* **Resource:** The Definitive Guide to DAX & Documentation
-* **Key Takeaway:** Analyzed how `CALCULATE` triggers context transition by converting an active row context into an equivalent filter context. Evaluated common performance bottlenecks when pairing iterative functions (`SUMX`, `FILTER`) with nested base measures.
+* **Topic:** Personal Commitment / Family Leave
+* **Resource:** N/A
+* **Key Takeaway:** Dedicated time to family priorities; analytical roadmap paused.
 
 **⌨️ Skill Practice**
 
-* **Focus:** Typing Speed & Accuracy
-* **Resource:** Monkeytype
-* **Duration:** 30 Minutes
-* **Key Takeaway:** Completed 60-second burst intervals focusing on eliminating hesitation during capital letter shift sequences; maintained steady-state accuracy above 96%.
+* **Focus:** Scheduled Rest
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Practice paused.
 
 ---
 
 ### 🗓️ Date: September 28, 2026
 
-**🔍 Core Learning: SQL (Query Optimization & Execution Plans)**
+**⏸️ Core Learning: Personal Time**
 
-* **Topic:** MySQL 8.0 `EXPLAIN ANALYZE` & Index Utilization
-* **Resource:** MySQL 8.0 Reference Manual
-* **Key Takeaway:** Evaluated cost models and actual execution timings for multi-table relational joins. Identified when the query optimizer favors composite indexes on junction tables versus falling back to nested-loop full table scans.
+* **Topic:** Personal Commitment / Family Leave
+* **Resource:** N/A
+* **Key Takeaway:** Stepped away from the workstation for off-desk family responsibilities.
 
 **⌨️ Skill Practice**
 
-* **Focus:** Typing Speed & Accuracy
-* **Resource:** Keybr
-* **Duration:** 30 Minutes
-* **Key Takeaway:** Isolated bottom-row key transitions ('c', 'v', 'b') to smooth out finger movement and prevent irregular keystroke latency.
+* **Focus:** Scheduled Rest
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Practice paused.
 
 ---
 
 ### 🗓️ Date: September 27, 2026
 
-**🏗️️ Core Learning: Data Architecture & Dimensional Modeling**
+**⏸️ Core Learning: Personal Time**
 
-* **Topic:** Kimball Dimensional Design & Grain Integrity
-* **Resource:** The Data Warehouse Toolkit
-* **Key Takeaway:** Re-evaluated transactional versus accumulating snapshot fact architectures. Clarified the architectural boundaries between snowflaked dimensions and pure star schemas to optimize query performance in reporting layers.
+* **Topic:** Personal Commitment / Family Leave
+* **Resource:** N/A
+* **Key Takeaway:** Continued scheduled personal leave; active study sprints temporarily paused.
 
 **⌨️ Skill Practice**
 
-* **Focus:** Typing Speed & Accuracy
-* **Resource:** Keybr
-* **Duration:** 30 Minutes
-* **Key Takeaway:** Prioritized a relaxed, consistent cadence over peak burst typing to eliminate backspace usage on multi-syllable terms.
+* **Focus:** Scheduled Rest
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Practice paused.
 
 ---
 
 ### 🗓️ Date: September 26, 2026
 
-**🐍 Core Learning: Python (Data Processing & Vectorization)**
+**⏸️ Core Learning: Personal Time**
 
-* **Topic:** Pandas Memory Profiling & Type Downcasting
-* **Resource:** Python for Data Analysis
-* **Key Takeaway:** Implemented numeric downcasting (`float64` to `float32`, `int64` to `int16`) and categorical conversions across high-cardinality string columns, significantly reducing in-memory DataFrame overhead during data generation pipelines.
+* **Topic:** Personal Commitment / Family Leave
+* **Resource:** N/A
+* **Key Takeaway:** Allocated time away from technical tracks to manage family responsibilities.
 
 **⌨️ Skill Practice**
 
-* **Focus:** Typing Speed & Accuracy
-* **Resource:** Monkeytype
-* **Duration:** 30 Minutes
-* **Key Takeaway:** Completed specialized punctuation and syntax drills focusing on symbols frequently used in code blocks (`_`, `{}`, `[]`, `->`).
+* **Focus:** Scheduled Rest
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Practice paused.
 
 ---
 
-### 🗓️️ Date: September 25, 2026
+### 🗓️ Date: September 25, 2026
 
-**🧮 Core Learning: SQL (Advanced Analytical Patterns)**
+**⏸️ Core Learning: Personal Time**
 
-* **Topic:** Window Frame Specifications & Cumulative Metrics
-* **Resource:** Advanced SQL for Analytics Documentation
-* **Key Takeaway:** Evaluated explicit window framing syntax (`ROWS BETWEEN ... PRECEDING AND CURRENT ROW`) to construct running aggregates and moving averages without incurring the computational overhead of self-joins.
+* **Topic:** Travel & Personal Commitment
+* **Resource:** N/A
+* **Key Takeaway:** Paused technical study blocks and project development for personal travel and family commitments.
 
 **⌨️ Skill Practice**
 
-* **Focus:** Typing Speed & Accuracy
-* **Resource:** Keybr
-* **Duration:** 30 Minutes
-* **Key Takeaway:** Drilled home-row anchor keys to maintain consistent finger placement; maintained 97% accuracy across all sets.
+* **Focus:** Scheduled Rest
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Practice paused during personal leave.
 
 ---
 
