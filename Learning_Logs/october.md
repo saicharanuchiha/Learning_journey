@@ -2,6 +2,23 @@
 
 ---
 
+### 🗓️ Date: October 10, 2026
+
+**📄 Resume Overhaul & Professional Positioning**
+
+* **Topic:** Single-Page ATS Formatting, Chronology Alignment & Feedback Audit
+* **Resource:** Google Docs / Word & HR Review Feedback
+* **Key Takeaway:** Rebuilt and tightened entire resume into a strict single-page layout; integrated verified Amazon and Uber progression, resolved timeline gaps, and eliminated defensive project phrasing to let technical architecture stand on its own.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Completed daily speed and accuracy session before workout.
+
+---
+
 ### 🗓️ Date: October 09, 2026
 
 **📊 Core Learning: Power BI**
