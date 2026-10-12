@@ -2,6 +2,33 @@
 
 ---
 
+### 🗓️ Date: October 12, 2026
+
+**💼 Job Applications & Technical Portfolio Optimization**
+
+* **Topic:** Digital Presence Alignment, Banner Asset Design, and Targeted Role Applications
+* **Resource:** Google Careers Portal, LinkedIn, Canva, and GitHub
+* **Key Takeaway:** Finalized single-page ATS resume with verified clickable hyperlinks and synchronized GitHub profile badges and LinkedIn banner branding. Tailored and submitted application for Google's Data Analyst (Risk) role in Hyderabad, crafting targeted positioning that directly bridges operational fraud mitigation at Uber with SQL and Python data modeling.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Completed daily speed and accuracy practice session.
+
+---
+
+### 🗓️ Date: October 11, 2026
+
+**🛌 Rest & Recovery**
+
+* **Focus:** Scheduled Rest Day
+* **Activity:** Full mental and physical recovery
+* **Key Takeaway:** Took the day off from screen time, technical prep, and resume revisions to reset cognitive fatigue before beginning the application sprint.
+
+---
+
 ### 🗓️ Date: October 10, 2026
 
 **📄 Resume Overhaul & Professional Positioning**
