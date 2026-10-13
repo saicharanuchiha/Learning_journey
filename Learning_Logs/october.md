@@ -2,6 +2,23 @@
 
 ---
 
+### 🗓️ Date: October 13, 2026
+
+**🗣️ Core Learning: Professional Communication**
+
+* **Topic:** Workplace Communication Dynamics & Delivery
+* **Resource:** Video Lecture
+* **Key Takeaway:** Reviewed foundational verbal communication and professional delivery techniques; identified post-application friction points to reset daily deep-work structure starting tomorrow morning.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Completed daily speed and accuracy maintenance drill.
+
+---
+
 ### 🗓️ Date: October 12, 2026
 
 **💼 Job Applications & Technical Portfolio Optimization**
