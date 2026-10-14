@@ -2,6 +2,23 @@
 
 ---
 
+### 🗓️ Date: October 14, 2026
+
+**💻 Core Learning: E-Commerce Web Scraper & ETL Pipeline**
+
+* **Topic:** Multithreaded Web Scraping, Pandas Transformations, and MySQL Idempotent Loading
+* **Resource:** Python, BeautifulSoup, Requests, SQLAlchemy, and MySQL 8.0
+* **Key Takeaway:** Built and executed a multithreaded web scraper using `ThreadPoolExecutor` to extract product details, categories, and inventory stock counts from `books.toscrape.com`, successfully transforming the data and loading it into a normalized MySQL database.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Completed daily speed and consistency maintenance drill.
+
+---
+
 ### 🗓️ Date: October 13, 2026
 
 **🗣️ Core Learning: Professional Communication**
