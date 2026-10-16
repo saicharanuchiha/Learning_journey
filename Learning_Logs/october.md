@@ -2,6 +2,23 @@
 
 ---
 
+### 🗓️ Date: October 16, 2026
+
+**🛌 Core Learning: Cognitive Recovery & Strategic Pacing**
+
+ * **Topic:** Scheduled Personal & Wellness Day
+ * **Resource:** Offline Recovery & Routine Management
+ * **Key Takeaway:** Dedicated a scheduled personal day to step back from active technical workflows, mitigating cognitive fatigue and preserving long-term focus for upcoming engineering modules and interview preparation.
+
+**⌨️ Skill Practice**
+
+ * **Focus:** Typing Speed & Accuracy
+ * **Resource:** Keybr
+ * **Duration:** 10 Minutes
+ * **Key Takeaway:** Completed daily typing speed and accuracy maintenance drill.
+
+---
+
 ### 🗓️ Date: October 15, 2026
 
 **🗄️ Core Learning: Local Storage & File System Administration**
