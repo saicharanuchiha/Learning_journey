@@ -2,6 +2,57 @@
 
 ---
 
+### 🗓️ Date: October 20, 2026
+
+**⚙️ Core Learning: Batch Media Processing & Data Compression**
+
+* **Topic:** Codec Optimization, Bitrate Allocation, and Automated Transcoding
+* **Resource:** Local Encoding CLI & Storage Systems
+* **Key Takeaway:** Configured and executed batch transcoding pipelines to standardize video container formats and optimize storage footprint while preserving stream quality across local data drives.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Completed daily typing speed and accuracy maintenance drill.
+
+---
+
+### 🗓️ Date: October 19, 2026
+
+**🔄 Core Learning: Workflow Management & Pipeline Maintenance**
+
+* **Topic:** Asynchronous Task Scheduling & System Upkeep
+* **Resource:** Local Development Environment
+* **Key Takeaway:** Maintained baseline skill drills and monitored background storage operations during a scheduled pause in active development sprints.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Completed daily typing speed and accuracy maintenance drill.
+
+---
+
+### 🗓️ Date: October 18, 2026
+
+**📋 Core Learning: Sprint Review & Cadence Planning**
+
+* **Topic:** Weekly Technical Retrospective & Backlog Prioritization
+* **Resource:** GitHub & Project Roadmap
+* **Key Takeaway:** Reviewed weekly project milestones and organized upcoming technical modules to maintain sustainable engineering velocity across SQL and Python workflows.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Completed daily typing speed and accuracy maintenance drill.
+
+---
+
 ### 🗓️ Date: October 17, 2026
 
 **🛌 Core Learning: Strategic Recovery & Version Control Synchronization**
