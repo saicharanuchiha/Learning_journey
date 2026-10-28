@@ -2,6 +2,91 @@
 
 ---
 
+### 🗓️ Date: October 28, 2026
+
+**⏸️ Core Learning: Scheduled Rest & Cognitive Recovery**
+
+* **Topic:** Rest Day & Routine Reset
+* **Resource:** Offline Recovery & Pacing Management
+* **Key Takeaway:** Observed a scheduled rest day away from active technical modules to reset mental bandwidth and prepare for upcoming analytical workflows.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Completed daily typing speed and accuracy maintenance drill.
+
+---
+
+### 🗓️ Date: October 27, 2026
+
+**⏸️ Core Learning: Scheduled Rest & Cognitive Recovery**
+
+* **Topic:** Rest Day & Burnout Prevention
+* **Resource:** Offline Recovery & Pacing Management
+* **Key Takeaway:** Stepped back from active development and study blocks to prioritize cognitive recovery and maintain sustainable long-term pacing.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Completed daily typing speed and accuracy maintenance drill.
+
+---
+
+### 🗓️ Date: October 26, 2026
+
+**⏸️ Core Learning: Scheduled Rest & Cognitive Recovery**
+
+* **Topic:** Rest Day & Workflow Pause
+* **Resource:** Offline Recovery & Pacing Management
+* **Key Takeaway:** Maintained a scheduled pause in technical sprints to mitigate fatigue while keeping baseline daily typing discipline intact.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Completed daily typing speed and accuracy maintenance drill.
+
+---
+
+### 🗓️ Date: October 25, 2026
+
+**⏸️ Core Learning: Scheduled Rest & Cognitive Recovery**
+
+* **Topic:** Weekly Rest Day
+* **Resource:** Offline Recovery & Pacing Management
+* **Key Takeaway:** Observed a standard weekend rest day away from technical projects to support work-life balance and mental recharge.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Completed daily typing speed and accuracy maintenance drill.
+
+---
+
+### 🗓️ Date: October 24, 2026
+
+**⏸️ Core Learning: Scheduled Rest & Cognitive Recovery**
+
+* **Topic:** Weekend Rest & Recovery Day
+* **Resource:** Offline Recovery & Pacing Management
+* **Key Takeaway:** Took a scheduled break from technical coursework and database workflows to rest and decompress.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Completed daily typing speed and accuracy maintenance drill.
+
+---
+
 ### 🗓️ Date: October 23, 2026
 
 **🎮 Core Learning: Simulation Modeling & Interactive System Logic**
