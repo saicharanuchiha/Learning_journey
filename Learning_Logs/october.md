@@ -2,6 +2,40 @@
 
 ---
 
+### 🗓️ Date: October 30, 2026
+
+**⚡ Core Learning: Python & NumPy Vectorization**
+
+* **Topic:** Vectorized Temporal Generation & Execution Optimization
+* **Resource:** NumPy & Pandas Engineering Documentation
+* **Key Takeaway:** Refactored iterative data generation loops into vectorized NumPy array operations using `pd.to_timedelta`, eliminating per-row function overhead and implementing strict distribution normalization to prevent probability array mismatch errors.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained consistent speed and accuracy metrics during daily baseline typing drills.
+
+---
+
+### 🗓️ Date: October 29, 2026
+
+**🐍 Core Learning: Synthetic Data Engineering & Pipeline Debugging**
+
+* **Topic:** Non-Uniform Probability Distribution Modeling & Local Environment Management
+* **Resource:** Ride-Share Simulation Repository & Python Interpreter CLI
+* **Key Takeaway:** Audited simulation logic for multi-factor marketplace demand, resolving isolated interpreter dependency links for NumPy/Pandas and reviewing probability density weightings across peak operational hours.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Completed daily typing speed and accuracy maintenance drill.
+
+---
+
 ### 🗓️ Date: October 28, 2026
 
 **⏸️ Core Learning: Scheduled Rest & Cognitive Recovery**
