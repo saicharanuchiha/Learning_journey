@@ -2,6 +2,23 @@
 
 ---
 
+### 🗓️ Date: October 31, 2026
+
+**🗄️ Core Learning: Relational Data Modeling & Query Optimization**
+
+* **Topic:** Kimball Star Schema Design & Composite B-Tree Indexing
+* **Resource:** MySQL 8.0 Reference Manual & Ride-Share Analytics Database
+* **Key Takeaway:** Architected a star schema separating transactional events (`fact_trips`) from descriptive entities, deploying composite B-Tree indexes on `(pickup_zone_id, trip_status, request_timestamp)` to enable index range scans and eliminate filesort operations during multi-condition time-series aggregations.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Completed daily speed and accuracy maintenance drills, prioritizing steady rhythm and minimal error correction across standard alphanumeric sets.
+
+---
+
 ### 🗓️ Date: October 30, 2026
 
 **⚡ Core Learning: Python & NumPy Vectorization**
